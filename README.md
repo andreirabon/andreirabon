@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-I'm a passionate developer focused on creating efficient and scalable web solutions.
+With three years of dedicated experience as a Quality Assurance Tester, I am now transitioning back to my foundational role as a Web Developer.
 
 ### 💻 Tech Stack
 
@@ -22,10 +22,6 @@ I'm a passionate developer focused on creating efficient and scalable web soluti
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirabon/)
-
-<!--
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
 
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirabon/)
