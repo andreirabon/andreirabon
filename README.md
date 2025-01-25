@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-With three years of dedicated experience as a _Quality Assurance Tester_, I am transitioning back to my foundational role as a _Web Developer_. I am particularly focused on utilizing React to develop web applications.
+With three years of dedicated experience as a _Quality Assurance Tester_, I am transitioning back to my foundational role as a _Web Developer_. I am particularly focused on utilizing _React_ to develop web applications.
 
 ### 💻 Tech Stack;
 
