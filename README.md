@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-With three years of dedicated experience as a _Quality Assurance Tester_, I am now transitioning back to my foundational role as a _Web Developer_, with a specific emphasis on _React_.
+With three years of dedicated experience as a _Quality Assurance Tester_, I am now transitioning back to my foundational role as a _Web Developer_, with a specific emphasis on using _React_.
 
 ### 💻 Tech Stack;
 
@@ -12,7 +12,10 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am n
    ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 3. **Database:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-4. **Testing:** ![Playwright](./public/playwright.svg)
+
+4. **Testing:** ![Playwright](./public/playwright.svg) Microsoft Playwright
+
+5. **Tools:** ![Figma](./public/figma.svg) Figma
 
 ### 🌱 Currently Learning;
 
