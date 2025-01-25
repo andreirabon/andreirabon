@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-With three years of dedicated experience as a _Quality Assurance Tester_, I am now transitioning back to my foundational role as a _Web Developer_, with a specific emphasis on using _React_.
+With three years of dedicated experience as a _Quality Assurance Tester_, I am transitioning back to my foundational role as a _Web Developer_. I am particularly focused on utilizing React to develop web applications.
 
 ### 💻 Tech Stack;
 
@@ -13,7 +13,7 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am n
 
 3. **Database:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-4. **Testing:** ![Playwright](./public/playwright.svg) Microsoft Playwright
+4. **Testing:** ![Playwright](./public/playwright.svg) Playwright
 
 5. **Tools:** ![Figma](./public/figma.svg) Figma
 
@@ -21,10 +21,10 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am n
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
 
-### 📫 Connect With Me;
+### 🗃️ Portfolio;
 
-<!--
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
--->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+
+### 📫 Connect With Me;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirabon/)
