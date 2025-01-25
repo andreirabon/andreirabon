@@ -6,7 +6,7 @@ I'm a passionate developer focused on creating efficient and scalable web soluti
 
 ### 💻 Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, Tailwind
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, and Tailwind CSS
 - **Backend:** PHP, Laravel, and Node.js
 - **Database:** PostgreSQL
 - **Testing:** Playwright
@@ -22,7 +22,7 @@ I'm a passionate developer focused on creating efficient and scalable web soluti
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<[text](https://www.linkedin.com/in/andreirabon/)>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreirabon/)
 
 <!--
 
