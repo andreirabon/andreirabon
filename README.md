@@ -23,7 +23,7 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am t
 
 ### 🗃️ Portfolio;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andreirabon-portfolio.vercel.app/)
 
 ### 📫 Connect With Me;
 
