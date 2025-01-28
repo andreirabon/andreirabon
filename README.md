@@ -13,9 +13,9 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am t
 
 3. **Database:** ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-4. **Testing:** <!-- ![Playwright](./public/playwright.svg) --> Playwright
+4. **Testing:** Playwright
 
-5. **Tools:** <!-- ![Figma](./public/figma.svg) --> Figma
+5. **Tools:** Figma
 
 ### 🌱 Currently Learning;
 
