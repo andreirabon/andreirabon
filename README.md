@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-With three years of dedicated experience as a _Quality Assurance Tester_, I am transitioning back to my foundational role as a _Web Developer_. I am particularly focused on utilizing _React_ to develop web applications.
+With three years of dedicated experience as a **Quality Assurance Tester**, I am now refocusing on my primary expertise as a **Web Developer**, specializing in **React**. This transition enables me to leverage my background in quality assurance in conjunction with my development skills to create efficient and effective single-page applications.
 
 ### 💻 Tech Stack;
 
@@ -30,7 +30,7 @@ With three years of dedicated experience as a _Quality Assurance Tester_, I am t
 
 ### 🗃️ Portfolio;
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andreirabon-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sooty-omega-80.vercel.app/)
 
 ### 📫 Connect With Me;
 
