@@ -2,7 +2,7 @@
 
 ## 👨🏽‍💻 Web Dev Developer
 
-With three years of dedicated experience as a **Quality Assurance Tester**, I am now refocusing on my primary expertise as a **Web Developer**, specializing in **React**. This transition enables me to leverage my background in quality assurance in conjunction with my development skills to create efficient and effective single-page applications.
+With three years of dedicated experience as a **Quality Assurance Tester**. I'm now refocusing on my primary expertise as a **Web Developer**, specializing in **React**. This transition enables me to leverage my background in quality assurance in conjunction with my development skills to create efficient and effective single-page applications.
 
 ### 💻 Tech Stack;
 
