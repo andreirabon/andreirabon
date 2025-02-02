@@ -23,11 +23,6 @@ With three years of dedicated experience as a **Quality Assurance Tester**. I'm 
 
 2. Next.js
 
-3. Drizzle
-
-4. tRPC
-<!-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) -->
-
 ### 🗃️ Portfolio;
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sooty-omega-80.vercel.app/)
