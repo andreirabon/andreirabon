@@ -1,4 +1,4 @@
-## 👨🏽‍💻 I'm Andrei, a Frontend Developer based in the Philippines.
+## 👨🏽‍💻 i'm andrei, a Frontend Developer based in the philippines.
 
 With three years of dedicated experience as a **Quality Assurance Tester**. I'm now refocusing on my primary expertise as a **Frontend Developer**, specializing in **React**. This transition enables me to leverage my background in quality assurance in conjunction with my development skills to create efficient and effective single-page applications.
 
