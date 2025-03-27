@@ -9,7 +9,7 @@ With three years of experience as a **Quality Assurance Tester**. I'm now refocu
 
 ### 🌱 Currently Learning;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Jest](https://img.shields.io/badge/jest-maroon?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-maroon?style=for-the-badge) ![Hono](https://img.shields.io/badge/hono-orange?style=for-the-badge) ![Drizzle](https://img.shields.io/badge/drizzle_orm-olive?style=for-the-badge)
 
 ### 📌 Future Learning Goals;
 
