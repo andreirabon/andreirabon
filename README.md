@@ -1,6 +1,6 @@
 ## 👨🏽‍💻 I'm Andrei, a Full Stack Web Developer based in the philippines.
 
-Transitioning from a three-year **Quality Assurance Tester** role. I am now applying this knowledge as a **Full Stack Developer**, working with **React for frontend development** and **Laravel for backend processes**. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
+Transitioning from a three-year **Quality Assurance Tester** role. I am now applying this knowledge as a **Full Stack Web Developer**, working with **React for frontend development** and **Laravel for backend processes**. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
 
 ### 💻 Skills;
 
