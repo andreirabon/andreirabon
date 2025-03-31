@@ -1,6 +1,6 @@
-## 👨🏽‍💻 I'm Andrei, a Full Stack Web Developer based in the philippines.
+## 👨🏽‍💻 I'm Andrei, a React Frontend Web Developer based in the philippines.
 
-Transitioning from a three-year **Quality Assurance Tester** role. I am now applying this knowledge as a **Full Stack Web Developer**, working with **React for frontend development** and **Laravel for backend processes**. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
+Transitioning from a three-year **Quality Assurance Tester** role. I am now applying this knowledge as a **Frontend Web Developer**, specializing with **React for frontend development**. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
 
 ### 💻 Skills;
 
@@ -8,7 +8,7 @@ Transitioning from a three-year **Quality Assurance Tester** role. I am now appl
 
 ### 🌱 Currently Learning;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-maroon?style=for-the-badge) ![Hono](https://img.shields.io/badge/hono-orange?style=for-the-badge) ![Drizzle](https://img.shields.io/badge/drizzle_orm-olive?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Inertia](https://img.shields.io/badge/inertia-purple?style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-maroon?style=for-the-badge) ![Hono](https://img.shields.io/badge/hono-orange?style=for-the-badge) ![Prisma](https://img.shields.io/badge/prisma-silver?style=for-the-badge)
 
 ### 📌 Future Learning Goals;
 
