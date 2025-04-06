@@ -1,6 +1,6 @@
-## 👨🏽‍💻 I'm Andrei, a React Frontend Web Developer based in the philippines.
+## 👨🏽‍💻 I'm Andrei, a React Frontend Developer based in the philippines.
 
-Transitioning from a three-year ***Quality Assurance Tester role***. I am now applying this knowledge as a ***Frontend Developer***, specializing with ***React*** for frontend development. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
+Transitioning from a three-year **_Quality Assurance Tester role_**. I am now applying this knowledge as a **_Frontend Developer_**, specializing with **_React_** for frontend development. This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
 
 ### 💻 Skills;
 
