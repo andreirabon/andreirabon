@@ -8,7 +8,7 @@ Transitioning from a three-year **_Quality Assurance Tester role_**. I am now ap
 
 ### 🌱 Currently Learning;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vitest](https://img.shields.io/badge/vitest-green?style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-orange?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vitest](https://img.shields.io/badge/vitest-gray?style=for-the-badge) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TanStack](https://img.shields.io/badge/tanstack-gray?style=for-the-badge)
 
 ### 📌 Planning to Learn;
 
