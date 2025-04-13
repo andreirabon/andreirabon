@@ -12,7 +12,7 @@ Transitioning from a three-year **_Quality Assurance Tester role_**. I am now ap
 
 ### 🌱 Currently Learning;
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-FCC72B?style=for-the-badge)  ![TanStack Query](https://img.shields.io/badge/tanstack_query-ef4841?style=for-the-badge) ![TanStack Router](https://img.shields.io/badge/tanstack_router-10B981?style=for-the-badge) ![Jotai](https://img.shields.io/badge/jotai-white?style=for-the-badge) ![Better Auth](https://img.shields.io/badge/better_auth-ffffff?style=for-the-badge) ![Supabase](https://img.shields.io/badge/supabase-3fcf8f?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vitest](https://img.shields.io/badge/vitest-FCC72B?style=for-the-badge) ![ArkType](https://img.shields.io/badge/arktype-blue?style=for-the-badge) ![TanStack Query](https://img.shields.io/badge/tanstack_query-ef4841?style=for-the-badge) ![TanStack Query](https://img.shields.io/badge/tanstack_query-ef4841?style=for-the-badge) ![TanStack Router](https://img.shields.io/badge/tanstack_router-10B981?style=for-the-badge) ![Jotai](https://img.shields.io/badge/jotai-white?style=for-the-badge) ![Better Auth](https://img.shields.io/badge/better_auth-ffffff?style=for-the-badge) ![Supabase](https://img.shields.io/badge/supabase-3fcf8f?style=for-the-badge)
 
 ### 📌 Planning to Learn;
 
