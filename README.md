@@ -1,7 +1,5 @@
 ## 👨🏽‍💻 I'm Andrei, a Full Stack Developer based in the philippines.
 
-Transitioning from a **_Quality Assurance Tester_** role. I am now applying this knowledge as a **_Full Stack Developer_**, specializing with **_Vue_** for **_frontend development_** and **_Laravel_** for **_backend development._** This combination of experience ensures that quality principles are considered from the beginning, aiding in the creation of effective and dependable web applications.
-
 [![Portfolio](https://img.shields.io/badge/portfolio-ffffff?style=for-the-badge)](https://portfolio-sooty-omega-80.vercel.app/)
 
 ### 💻 Current Skills;
