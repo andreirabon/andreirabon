@@ -10,6 +10,10 @@
 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Inertia.js](https://img.shields.io/badge/Inertia.js-9157EA?style=for-the-badge) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<!-- ### 📌 Future Learning Goals;
+### 📌 Future Learning Goals;
 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Zod](https://img.shields.io/badge/zod-142641?style=for-the-badge) ![Jotai](https://img.shields.io/badge/jotai-white?style=for-the-badge) ![TanStack Query](https://img.shields.io/badge/tanstack_query-ef4841?style=for-the-badge) ![Better Auth](https://img.shields.io/badge/better_auth-ffffff?style=for-the-badge) ![Drizzle ORM](https://img.shields.io/badge/drizzle_orm-C5F74F?style=for-the-badge) -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+
+
+
+
